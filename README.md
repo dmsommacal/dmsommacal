@@ -20,7 +20,7 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="Angular" height="30" width="100" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
-  <!-- <img align="right" alt="Avatar" src=""> -->
+  <img align="right" alt="Avatar" src="blob:https://discord.com/0c6ada41-4867-4219-93f5-325fa12a3326"/>
 </div>
 
 ##
