@@ -7,10 +7,10 @@
 ##
 
 <!-- Github stats -->
-<div>
+<div align="center">
   <a href="https://github.com/dmsommacal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dmsommacal&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmsommacal&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=dmsommacal&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>  
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmsommacal&layout=compact&langs_count&theme=jolly"/>
 </div>
 
 <!-- imagens das linguagens -->
